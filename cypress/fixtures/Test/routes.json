@@ -1,0 +1,14 @@
+{
+  "commonPaths": {},
+  "envs": {
+    "staging": {
+      "baseUrl": "https://daft.ie"
+    },
+    "release": {
+      "baseUrl": "https://daft.ie"
+    },
+    "production": {
+      "baseUrl": "https://daft.ie"
+    }
+  }
+}
